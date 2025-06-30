@@ -94,4 +94,5 @@ In a real-world application, the basic RLE can be extended with optimizations su
 # Conclusion
 Run-Length Encoding stands out due to its simplicity and effectiveness for specific types of data. While it doesn't suit every scenario, its implementation in C demonstrates both the power of basic algorithms and the efficiency of low-level programming. Whether you're compressing image data or simplifying text streams, RLE offers a clear introduction to the world of data compression and is a perfect starting point for learning more complex algorithms.
 
-Would you like the decoder implementation as well? Or maybe you'd be curious to see how this can be adapted to compress images or files?
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/be86daac-261a-47c2-8085-a36d131a2817
